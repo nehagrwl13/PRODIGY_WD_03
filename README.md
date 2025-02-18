@@ -17,7 +17,7 @@ JavaScript: Responsible for the game logic, including turn management, win detec
 
 How to Play 🕹️
 Download or Clone the Repository: Get a local copy of the project by downloading the ZIP file or cloning the repository using Git:
-
+https://github.com/nehagrwl13/PRODIGY_WD_03.git
 Open the Project: Navigate to the project directory and open the index.html file in your preferred web browser.
 Start the Game: Choose between single-player or two-player mode and start playing! Take turns clicking on the empty cells to place your marks (X or O) on the game board.
 Winning and Resetting: The game will automatically detect winning combinations and display the result. Click the "Reset" button to start a new game.
